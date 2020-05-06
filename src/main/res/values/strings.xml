@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">web</string>
+    <string name="txt_titulo">Titulo</string>
+    <string name="txt_descrip">Descripcion</string>
+    <string name="txt_director">Director</string>
+    <string name="txt_producer">Producida</string>
+    <string name="txt_fecha">Fecha</string>
+    <string name="txt_puntaje">Puntaje</string>
+</resources>
